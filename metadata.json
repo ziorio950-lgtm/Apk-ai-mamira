@@ -1,0 +1,6 @@
+{
+  "name": "NutriAI",
+  "description": "ماسح ذكي للطعام والمشروبات ومساعد غذائي مستقبلي بالذكاء الاصطناعي مع تحليل فوري وتوجيه صوتي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
